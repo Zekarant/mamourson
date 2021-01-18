@@ -1,0 +1,55 @@
+<h3>HORAIRES</h3>
+<p>HORAIRES D’OUVERTURE<br/>
+Nous accueillons votre enfant, en demi-journée ou à la journée de 7h30 à 18h30, du lundi au vendredi. Pour le bien-être des enfants et afin de ne pas perturber le fonctionnement de la MAM, aucun accueil ni départ ne se fait entre 11h30 et 12h30 (repas) et entre 13h30 et 15h30 (sieste).</p>
+<p>HORAIRES ATYPIQUES <br/>
+	Afin d’apporter une solution adaptée aux besoins de garde en horaires atypiques (hors horaires d’ouverture), nous pourrons examiner chaque demande. Elles seront gérées et  étudiées de façon à conserver un équilibre et des amplitudes horaires raisonnables pour les assistantes maternelles. Pour cela, la délégation d’accueil sera utilisée, toujours dans le respect des limites de nos agréments
+</p>
+<br/>
+<h3>ACCEUIL</h3>
+<p>L’ARRIVÉE DES ENFANTS<br/>
+A leur arrivée, les parents ont à leur disposition un porte-manteau et un casier afin de déposer les effets de l’enfant. L’assistante maternelle les accueille dans l’espace d’éveil et laisse à l’enfant et à ses parents le temps nécessaire pour leur séparation. Elle participe aux transmissions et les parents lui remettent le cahier de liaison. Une poche à doudou et à sucette peuvent accueillir la sucette et le doudou de l’enfant dès qu’il le souhaite.</p>
+<p>LE DÉPART DES ENFANTS <br/>
+A l’arrivée des parents, l’assistante maternelle prépare l’enfant à leurs retrouvailles. Elle transmet oralement les faits marquants de la journée qu’elle aura préalablement inscrits sur le cahier de liaison. Les parents habillent l’enfant.</p>
+<br/>
+<h3>REPAS</h3>
+<p>Jusqu’aux 6 mois de l’enfant (jusqu’à 8 mois, si besoin), les parents apportent les repas (lait, petits pots, goûter...). L’allaitement mixte est possible. Pour cela, les parents peuvent télécharger le document</p>
+<p>« Comment bien recueillir, conserver et transporter le lait maternel en toute sécurité » sur le site <a href="https://www.anses.fr">https://www.anses.fr</a>.</p>
+<p>A partir de 6 (à 8) mois, selon l’évolution et les besoins de l’enfant, les parents laissent cette charge aux assistantes maternelles qui proposent chaque jour un menu différent et équilibré, dans le respect des normes d’hygiène et de diététique.</p>
+<p>Le repas est :
+	<ul>
+		<li>un moment fort pour le plaisir d’être ensemble</li>
+		<li>l’acquisition de l’autonomie pour manger seul</li>
+		<li>la découverte des aliments (proposer de goûter sans jamais forcer)</li>
+		<li>l’apprentissage du respect (être poli et ne pas crier)</li>
+		<li>la tolérance en acceptant la différence.</li>
+	</ul>
+</p>
+<br/>
+<h3>SIESTE</h3>
+<p>L’endormissement des enfants est surveillé. Leur rythme de sommeil est respecté, dans la mesure du possible.<br/>
+Afin d’éviter les risques d’asphyxie, nous couchons toujours les enfants sur le dos, bien à plat, dans une turbulette adaptée à leur taille et à la saison. Nous refuserons catégoriquement de coucher les enfants sur le ventre ou sur le côté .</p>
+<p>Les lits sont nominatifs et des interphones permettent de rester à l’écoute pendant la sieste</p>
+<br/>
+<h3>ACTIVITÉS</h3>
+<p>Tout est proposé sans jamais être imposé et les besoins de temps libres sont respectés.
+	Le déroulement de la journée est ponctué de temps d’activités manuelles, ludiques ou dirigées, de moments calmes avec histoires, comptines ou musique, de sorties, de jeux extérieurs.<br/>
+L’ accent est mis sur certains temps forts de l’année : fête d’hiver, du printemps, d’été, anniversaires, fête des parents...</p>
+<p>Dès que le temps le permet, nous profitons également de l’extérieur. Les promenades jouent un rôle important dans l’hygiène de vie et sont un moment de détente orienté vers une découverte du monde extérieur (autres enfants du quartier, nature, voitures...) et de l’environnement. Elles peuvent avoir des buts différents : marché, courses, flâneries, parc, éventuel partenariat avec d’autres structures...</p>
+<p>A l’occasion de moments festifs au sein de la MAM (fête de l’hiver, du printemps, des parents, carnaval.), les parents peuvent être sollicités ou invités. C’est un moment de rencontre, d’échanges, de partage entre enfants, parents et assistantes maternelles.</p>
+<br/>
+<h3>TARIFS</h3>
+<div class="text-center">
+	<img src="images/tarif.png" class="mx-auto"/>
+</div>
+<p>Indemnités d'entretien/jour :
+	<ul>
+		<li>3,10€ pour 9 h de garde journalière + 0,3444 € par heure supplémentaire</li>
+		<li>2,74 de 7 à 8 heures de garde journaière</li>
+		<li>2,65 de 0 à 7 heures de garde journalière</li>	
+	</ul>
+	Repas : 3,50€<br/>
+	Goûters: 1€
+</p>
+<br/>
+<h3>PHOTOS</h3>
+(disponibles sur connexion sécurisée)
